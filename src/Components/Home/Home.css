@@ -1,0 +1,19 @@
+.banner-container{
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+    column-gap: 60px;
+}
+.banner img{
+width: 100%;
+height: 550px;
+border-radius: 20px;
+}
+.banner{
+    margin-left: 20px;
+}
+.banner-text{
+    margin-right: 20px;
+}
+.banner-text p{
+    font-size: 25px;
+}
