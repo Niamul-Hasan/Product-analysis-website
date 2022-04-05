@@ -1,7 +1,7 @@
 .link{
     text-decoration: none;
     font-size: 20px;
-    margin-left: 10px;
+    margin-left: 25px;
 }
 .header{
     height: 80px;
@@ -14,7 +14,7 @@
 }
 .active-link {
     text-decoration: none;
-    margin-left: 10px;
+    margin-left: 25px;
     font-size: 20px;
     transition: color ease-in-out 300ms;
     color:forestgreen;
