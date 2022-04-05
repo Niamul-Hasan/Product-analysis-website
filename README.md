@@ -7,6 +7,10 @@
 *NavLink is used
 *Customized data.json file is used
 *Recharts is used to insert graph
+- First item
+- Second item
+- Third item
+- Fourth item
 
 
 
