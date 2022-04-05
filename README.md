@@ -2,15 +2,11 @@
 <https://stalwart-sopapillas-ab6c0c.netlify.app/>
 
 ## Some Features of This Project
-*React Route is used
-*React useNavigate is used
-*NavLink is used
-*Customized data.json file is used
-*Recharts is used to insert graph
-- First item
-- Second item
-- Third item
-- Fourth item
+
+- React Route is used
+- React useNavigate is used
+- NavLink is used
+- NavLink is used
 
 
 
