@@ -1,10 +1,14 @@
 import React from 'react';
+import AreaGraph from "../AreaGraph/AreaGraph";
 
 const Blogs = () => {
     return (
-        <div>
+        <>
             <h1>This is my blog</h1>
-        </div>
+            <div>
+                <AreaGraph></AreaGraph>
+            </div>
+        </>
     );
 };
 
