@@ -15,7 +15,7 @@ const HomeReview = () => {
     }, [])
     return (
         <>
-            <div>
+            <div className='container'>
                 <h1 className='Review-heading'>Read Our Valueable Reviews</h1>
             </div>
             <div className='homeReview'>
@@ -24,7 +24,7 @@ const HomeReview = () => {
                 }
             </div>
             <div className="btn">
-                <button onClick={getReview}>See All Reviews</button>
+                <button className='review-all' onClick={getReview}>See All Reviews</button>
             </div>
         </>
     );

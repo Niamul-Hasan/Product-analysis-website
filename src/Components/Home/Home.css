@@ -2,6 +2,7 @@
     display:grid;
     grid-template-columns: repeat(2,1fr);
     column-gap: 60px;
+    margin-top: 30px;
 }
 .banner img{
 width: 100%;
@@ -10,6 +11,14 @@ border-radius: 20px;
 }
 .banner{
     margin-left: 20px;
+}
+.heading-1{
+    font-size: 40px;
+    color: cadetblue;
+}
+.heading-2{
+    font-size: 40px;
+    color:rgb(5, 5, 61);
 }
 .banner-text{
     margin-right: 20px;

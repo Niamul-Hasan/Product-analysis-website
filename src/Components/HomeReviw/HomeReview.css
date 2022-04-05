@@ -1,8 +1,26 @@
+.container{
+    margin-bottom: 10px;
+}
+
 .Review-heading{
     text-align: center;
+    color: darkolivegreen;
 }
 .btn{
     text-align: center;
+    padding-bottom: 50px;
+}
+.btn .review-all{
+    border: none;
+    border-radius: 15px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    color:rgb(19, 1, 53);
+    background-color:gainsboro ;
+}
+.review-all:hover{
+    color: forestgreen;
 }
 .homeReview{
     display: grid;
