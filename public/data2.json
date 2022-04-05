@@ -1,0 +1,26 @@
+[
+    {
+        "id": 39,
+        "pic": "http://placehold.it/32x32",
+        "name": "Bessie Mcfarland",
+        "email": "bessiemcfarland@genmom.com",
+        "review": "Very good device.Provides very strong connectivity.You can try it.\r\n",
+        "ratings": "5 Star"
+    },
+    {
+        "id": 28,
+        "pic": "http://placehold.it/32x32",
+        "name": "Gill Hayes",
+        "email": "gillhayes@genmom.com",
+        "review": "Not bad but I need more specifications.it is very good for small house or single use. but I need a heavy loaded device.\r\n",
+        "ratings": "3 Star"
+    },
+    {
+        "id": 55,
+        "pic": "http://placehold.it/32x32",
+        "name": "Johanna Ayala",
+        "email": "johannaayala@genmom.com",
+        "review": "I can say that just Awesome device. No bugs are noticed yet. I have been used for three years. \r\n",
+        "ratings": "5 Star"
+    }
+]

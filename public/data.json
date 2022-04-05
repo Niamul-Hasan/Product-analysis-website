@@ -1,0 +1,58 @@
+[
+    {
+        "id": 39,
+        "pic": "http://placehold.it/32x32",
+        "name": "Bessie Mcfarland",
+        "email": "bessiemcfarland@genmom.com",
+        "review": "Very good device.Provides very strong connectivity.You can try it.\r\n",
+        "ratings": "5 Star"
+    },
+    {
+        "id": 28,
+        "pic": "http://placehold.it/32x32",
+        "name": "Gill Hayes",
+        "email": "gillhayes@genmom.com",
+        "review": "Not bad but I need more specifications.it is very good for small house or single use. but I need a heavy loaded device.\r\n",
+        "ratings": "3 Star"
+    },
+    {
+        "id": 55,
+        "pic": "http://placehold.it/32x32",
+        "name": "Johanna Ayala",
+        "email": "johannaayala@genmom.com",
+        "review": "I can say that just Awesome device. No bugs are noticed yet. I have been used for three years. \r\n",
+        "ratings": "5 Star"
+    },
+    {
+        "id": 21,
+        "pic": "http://placehold.it/32x32",
+        "name": "Belinda Love",
+        "email": "belindalove@genmom.com",
+        "review": "Good device. I can recomend it for you. It may includes more bandwidth facilities.\r\n",
+        "ratings": "4 Star"
+    },
+    {
+        "id": 91,
+        "pic": "http://placehold.it/32x32",
+        "name": "Petra Gilbert",
+        "email": "petragilbert@genmom.com",
+        "review": "Good device.it is very good for small house or single use. I have been used for two years.You can try it.\r\n",
+        "ratings": "4 Star"
+    },
+    {
+        "id": 77,
+        "pic": "http://placehold.it/32x32",
+        "name": "Paul Rush",
+        "email": "paulrush@genmom.com",
+        "review": "Not bad at all. I can say you to use it.it has good connectivity strength.\r\n",
+        "ratings": "4 Star"
+    },
+    {
+        "id": 29,
+        "pic": "http://placehold.it/32x32",
+        "name": "Rachelle Campbell",
+        "email": "rachellecampbell@genmom.com",
+        "review": "I have a good experience with this device.It is awesome within normal range. If you need a broad ranged router than you should try another one.\r\n",
+        "ratings": "4 Star"
+    }
+]
