@@ -1,9 +1,9 @@
 import React from 'react';
 import AreaGraph from "../AreaGraph/AreaGraph";
 import PieGraph from '../PieGraph/PieGraph';
-import "./Blogs.css";
+import "./DashBoard.css";
 
-const Blogs = () => {
+const DashBoard = () => {
     return (
         <>
             <div className='chart'>
@@ -14,4 +14,4 @@ const Blogs = () => {
     );
 };
 
-export default Blogs;
+export default DashBoard;
