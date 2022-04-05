@@ -1,12 +1,14 @@
 import React from 'react';
 import AreaGraph from "../AreaGraph/AreaGraph";
+import PieGraph from '../PieGraph/PieGraph';
+import "./Blogs.css";
 
 const Blogs = () => {
     return (
         <>
-            <h1>This is my blog</h1>
-            <div>
+            <div className='chart'>
                 <AreaGraph></AreaGraph>
+                <PieGraph></PieGraph>
             </div>
         </>
     );
