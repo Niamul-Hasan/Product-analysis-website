@@ -18,6 +18,7 @@
     font-weight: 600;
     color:rgb(19, 1, 53);
     background-color:gainsboro ;
+    margin-top: 20px;
 }
 .review-all:hover{
     color: forestgreen;
